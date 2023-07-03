@@ -1,4 +1,4 @@
-<h3>Hello, 👋 I am Nizom, JavaScript Software Developer @ EPAM Systems.</h3> 
+<h3>Hello, 👋 I am Nizom, JavaScript Software Developer @ Vention.</h3> 
 <hr>
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/nizomiddin-abdumalikov/">LinkedIn</a>, <a href="https://t.me/niizom">Telegram</a>
